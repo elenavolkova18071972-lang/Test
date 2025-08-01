@@ -1,0 +1,14 @@
+body {
+    font-size: 24px;
+}
+<style>
+      .bg.color{
+        background-color:linear-gradient(to top, blanchedalmond, rgb (183, 138,66));
+    }
+    .  small {
+        font-size: xx-small;
+    }
+    .large {
+        font-size: x-large;
+    }
+    </style>
